@@ -34,7 +34,7 @@ I'm a web developer passionate about building high-performance applications with
 
 > **Key Features:** ⚡ High Performance • 🔐 Secure Auth • 📱 Mobile First
 
-[View Repository]([https://v667225.github.io/JOBO-T.G/](https://v667225.github.io/joboteen/)) | [Live Demo](https://your-demo-link.com)
+[View Repository]((https://v667225.github.io/joboteen/)) | [Live Demo](https://your-demo-link.com)
 
 ---
 
