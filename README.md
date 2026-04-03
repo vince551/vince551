@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=ARCHITECT%20VINCE&fontSize=95&fontColor=00FF00&animation=glitch&desc=SYSTEMS%20ARCHITECT%20%E2%80%A2%20FULL%20STACK%20ELITE&descAlignY=75&descSize=25" width="100%" />
 
 <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=>>+INITIALIZING+NEURAL+LINK...;>>+ARCHITECTING+THE+FUTURE+OF+WEB;>>+LEVERAGING+SCALABLE+SYSTEMS;>>+CONNECTION+ESTABLISHED+VIA+ENCRYPTED+LINE...)](https://git.io/typing-svg)
 
@@ -15,12 +16,14 @@
 
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 ## 🛠️ THE TECHNOLOGY MATRIX
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,ts,tailwind,docker,py,git,vscode,postman,figma,linux,aws,mysql,redux,express,github,vercel,netlify,postgre,sqlite,firebase,fastapi,php,laravel,bootstrap,sass,jquery&theme=dark&perline=9" width="1000" />
 </p>
 
+<p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 
@@ -34,6 +37,7 @@
 
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 ## 🧠 SKILLS & STRENGTHS
 * **Problem-Solving:** Decrypting complex bugs with surgical precision.
@@ -43,12 +47,14 @@
 
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 ## 🏆 GLOBAL MILESTONES
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vince551&theme=terminal&no-bg=true&column=4&margin-w=35&margin-h=35" width="1000" />
 </p>
 
+<p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 
@@ -66,6 +72,7 @@
 
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 ## 🌐 ESTABLISH CONNECTION
 <p align="center">
@@ -78,10 +85,12 @@
 
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 ## ⚡ DATA FRAGMENT
 > **Fun Fact:** I treat my code like architecture; if the foundation isn't solid, the roof will eventually collapse. I spend as much time designing the "why" as I do writing the "how."
 
+<p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 
 <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF00&height=200&section=footer&text=TERMINATE+SESSION&fontSize=45&fontColor=000" width="100%" />
