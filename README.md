@@ -3,7 +3,7 @@
 # 🟢 VINCE ODHIAMBO
 **Full Stack Architect | Creative Developer | Problem Solver**
 
-<img src="https://img.shields.io/github/followers/V667225?label=FOLLOWERS&style=for-the-badge&logo=github&color=00ff00&logoColor=black" />
+<img src="https://img.shields.io/github/followers/vince551?label=FOLLOWERS&style=for-the-badge&logo=github&color=00ff00&logoColor=black" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff00&height=100&section=header&text=SYSTEM%20ONLINE&fontSize=50&fontAlignY=70&fontColor=000000" width="100%" />
 
@@ -34,7 +34,7 @@ I'm a web developer passionate about building high-performance applications with
 
 > **Key Features:** ⚡ High Performance • 🔐 Secure Auth • 📱 Mobile First
 
-[View Repository]((https://v667225.github.io/joboteen/)) | [Live Demo](https://your-demo-link.com)
+[View Repository]((https:/vince551.github.io/joboteen/)) | [Live Demo](https://your-demo-link.com)
 
 ---
 
