@@ -1,45 +1,57 @@
-⚡ VINCE ODHIAMBO | Digital Architect 
+# Hi there, I'm Vince 👋 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Online-00FF41?style=flat-square&logo=signal" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-BD00FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vibe-Cybernetic-00D4FF?style=flat-square" />
-</p>
+<div align="center">
 
-> **"Code is the modern-day alchemy."** > Building high-performance solutions at the intersection of design and logic.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince551&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vince551&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
-🌐 System Capabilities
-
-| <img src="https://img.shields.io/badge/CORE-FRONTEND-00D4FF?style=for-the-badge" /> | <img src="https://img.shields.io/badge/CORE-BACKEND-BD00FF?style=for-the-badge" /> |
-| :--- | :--- |
-| `React.js` `Next.js` `TypeScript` | `Node.js` `PostgreSQL` `Python` |
-| `TailwindCSS` `Framer Motion` | `Docker` `Redis` `GraphQL` |
+</div>
 
 ---
 
- 📡 Diagnostic Reports (GitHub Stats)
+### 🚀 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=BD00FF" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
-</p>
-
----
-
-📂 Current Operations
-* 🛠️ **Project:** JoBO TEEN G — *Optimizing [X] for [Y]*
-* 🧠 **Learning:** Mastering [Advanced Tech, e.g., Web3 or LLMs]
-* ⚡ **Fact:** I prefer my coffee dark and my syntax highlighting darker.
+- ⚽ **Currently Building:** A web platform for **Dream League Soccer (DLS)** to connect gamers & host tournaments.
+- 💻 **Passionate About:** Web Development, Gaming Communities, & Open Source.
+- 💬 **Ask me about:** JavaScript, Web Dev, Esports & DLS strategy.
+- 📬 **How to reach me:** Connect with me on [X (Twitter)](https://x.com/your_handle) or via [Email](mailto:your_email@example.com).
 
 ---
 
- 🔗 Establish Connection
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<a href=""><img src="https://img.shields.io/badge/-LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-<a href="https://vince551.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-BD00FF?style=for-the-badge&logo=codepen&logoColor=black" /></a>
-<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-</p>
+#### Languages & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" width="100%"/>
+#### Backend & Databases
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **⚽ DLS Esports Hub** | A web application to connect Dream League Soccer players and host competitive tournaments. | React, Node.js, MongoDB | 🛠️ In Development |
+| **🎮 Gaming Community** | Tools and platforms built for online gaming communities. | JS, HTML/CSS | 🚀 Live |
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your_handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+
+</div>
