@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vince551"><img src="https://komarev.com/ghpvc/?username=vince551&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  <a href="https://github.com/vince551?tab=followers"><img src="https://img.shields.io/github/followers/vince551?style=for-the-badge&color=111111&labelColor=00ff88&logo=github&logoColor=000000&label=FOLLOWERS" alt="Followers" /></a>
-  <a href="https://github.com/vince551/Termux-kali-nethunter"><img src="https://img.shields.io/github/stars/vince551/Termux-kali-nethunter?style=for-the-badge&color=111111&labelColor=00ff88&logo=github&logoColor=000000&label=PROJECT+STARS" alt="Project stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vince551&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vince551?style=for-the-badge&color=111111&labelColor=00ff88&logo=github&logoColor=000000&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vince551/Termux-kali-nethunter?style=for-the-badge&color=111111&labelColor=00ff88&logo=github&logoColor=000000&label=PROJECT+STARS" alt="Project stars" />
 </p>
 
 ---
@@ -46,17 +46,6 @@ Current mission:
 | ⚽ **DLS Tournament Manager** | Tournament management, fixtures, standings and player administration | 🟢 Active |
 | 🌐 **Developer Portfolio** | A modern interactive portfolio showcasing my work and skills | 🟢 Active |
 | 📚 **EFAC / Education Projects** | Education, mentorship and digital tools for young learners | 🔵 Growing |
-
-```text
-CURRENT FOCUS
-
-[██████████████████░░] Full-Stack Development
-[████████████████░░░░] Backend Engineering
-[██████████████░░░░░░] Cybersecurity
-[████████████░░░░░░░░] Linux / Networking
-[██████████░░░░░░░░░░] Rust / Systems
-[████████░░░░░░░░░░░░] Architecture + CAD
-```
 
 ---
 
@@ -134,6 +123,12 @@ CURRENT FOCUS
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vince551&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 </p>
 
+### 🐍 Contribution Matrix
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vince551/vince551/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="95%" />
+</p>
+
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Vince%27s%20Contribution%20Matrix" alt="Contribution graph" />
 </p>
@@ -159,7 +154,6 @@ CURRENT FOCUS
 <p align="center">
   <a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" alt="Portfolio" /></a>
   <a href="https://instagram.com/vincey.dev"><img src="https://img.shields.io/badge/INSTAGRAM-00FF88?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=050505" alt="Instagram" /></a>
-  <a href="https://x.com/architectvince7"><img src="https://img.shields.io/badge/X-00FF88?style=for-the-badge&logo=x&logoColor=000000&labelColor=050505" alt="X" /></a>
   <a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" alt="Email" /></a>
 </p>
 
