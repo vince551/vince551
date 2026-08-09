@@ -1,156 +1,178 @@
-<div align="center">
+<!-- PROFILE README v2 — Vince Odhiambo -->
 
-# 👋 Hey, I'm Vince Odhiambo
-
-### Full-Stack Web Developer • Cybersecurity Learner • Builder • Future Architect
-
-<p>
-  <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-vince551-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D1B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://instagram.com/vincey.dev"><img src="https://img.shields.io/badge/Instagram-vincey.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f16,100:00ff88&height=220&section=header&text=VINCE%20ODHIAMBO&fontSize=54&fontColor=00ff88&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CYBERSECURITY%20LEARNER%20%7C%20BUILDER&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Vince Odhiambo banner" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=160&section=header&text=BUILD.%20LEARN.%20SECURE.%20CREATE.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner" />
-
-</div>
-
-## 🧑‍💻 About Me
-
-I'm **Vince Odhiambo**, a developer from Kenya who enjoys turning ideas into real, usable digital products.
-
-I work across **web development, UI/UX, Linux, cybersecurity and software projects**, while also exploring the intersection between technology, design and architecture.
-
-```text
-Vince Odhiambo
-├── 🌐 Web Development
-├── 🛡️ Cybersecurity & Ethical Hacking
-├── 🐧 Linux & Open Source
-├── 🎨 UI/UX & Product Design
-├── 🏗️ Architecture & Design
-└── 🚀 Building useful projects
-```
-
-## 🚀 What I'm Building
-
-- 🌐 **Web applications & developer tools**
-- 🛡️ **Cybersecurity learning environments and guides**
-- ⚽ **Football / DLS tournament projects**
-- 📚 **Education and community platforms**
-- 🏗️ **Technology-inspired design projects**
-
-## 🧠 Currently Learning
-
-- Full-stack development
-- Backend architecture
-- Databases & APIs
-- Linux administration
-- Networking
-- Cybersecurity fundamentals
-- Python, JavaScript and C
-- Cloud deployment
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" alt="Languages" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+building+ideas+into+real+products;%3E+web+development+%2B+cybersecurity;%3E+learning.+shipping.+breaking.+fixing.;%3E+future+architect+%7C+tech+builder" alt="Animated typing introduction" />
 </p>
 
-### Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,firebase,supabase" alt="Web and backend technologies" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,figma" alt="Tools and platforms" />
-</p>
-
-## 🔐 Cybersecurity
-
-I'm building my cybersecurity knowledge through **Linux, networking, security tooling and controlled labs**.
-
-### Areas I'm exploring
-
-- 🔎 Network reconnaissance
-- 🌐 Web application security
-- 🐧 Linux security
-- 🧪 CTFs and security labs
-- 🔐 Authentication & access control
-- 📡 Networking fundamentals
-- 🕵️ OSINT fundamentals
-
-> **Ethical rule:** Security tools should only be used against systems you own or have explicit permission to test.
-
-### Featured Security Project
-
-🐉 **[Termux Kali NetHunter](https://github.com/vince551/Termux-kali-nethunter)**
-
-A beginner-friendly guide for setting up Kali NetHunter Rootless on Android with Termux and learning cybersecurity tools safely.
-
-## ⭐ Featured Projects
-
-| Project | What it is |
-|---|---|
-| 🌐 [Portfolio](https://github.com/vince551/portfolio) | Personal developer portfolio |
-| 🐉 [Termux Kali NetHunter](https://github.com/vince551/Termux-kali-nethunter) | Kali/NetHunter and cybersecurity learning guide |
-| ⚽ [Pitch Kings](https://github.com/vince551/Pitch-kings) | Football tournament project |
-| 📚 [AMG Library](https://github.com/vince551/AMG-library) | Community/library project |
-| 🎓 [EFAC](https://github.com/vince551/EFAC) | Education-focused project |
-| 💻 [Coding](https://github.com/vince551/coding) | Coding and development work |
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vince551&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Vince's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince551&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Vince's most used languages" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
-
-</div>
-
-## 🎯 My Developer Philosophy
-
-> **Don't just learn technology. Build with it.**
-
-I believe the fastest way to grow is to combine **learning + experimentation + real projects**.
-
-Every project is an opportunity to understand something deeper, solve a real problem and become a better engineer.
-
-## 🌍 Beyond Code
-
-Technology is only one part of what I want to build.
-
-I'm interested in **architecture, engineering, design, education and community development** — especially where technology can make ideas more accessible and useful.
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://instagram.com/vincey.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="https://github.com/vince551"><img src="https://komarev.com/ghpvc/?username=vince551&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  <a href="https://github.com/vince551?tab=followers"><img src="https://img.shields.io/github/followers/vince551?style=for-the-badge&color=111111&labelColor=00ff88&logo=github&logoColor=000000&label=FOLLOWERS" alt="Followers" /></a>
+  <a href="https://github.com/vince551/Termux-kali-nethunter"><img src="https://img.shields.io/github/stars/vince551/Termux-kali-nethunter?style=for-the-badge&color=111111&labelColor=00ff88&logo=github&logoColor=000000&label=PROJECT+STARS" alt="Project stars" /></a>
 </p>
 
 ---
 
-<div align="center">
+## `whoami`
 
-### ⚡ Build something worth remembering.
+```text
+┌──(vince㉿github)-[~/profile]
+└─$ whoami
 
-**Vince Odhiambo · Kenya 🇰🇪**
+Vince Odhiambo
 
-<img src="https://komarev.com/ghpvc/?username=vince551&style=flat-square&color=238636" alt="Profile views" />
+Full-stack web developer and cybersecurity learner building practical,
+useful projects while exploring Linux, networks, backend systems and UI/UX.
 
-</div>
+Current mission:
+→ Build better software
+→ Learn security responsibly
+→ Turn ideas into products
+→ Grow toward architecture + technology
+```
+
+> **I don't just want to use technology — I want to understand how it works.**
+
+---
+
+## ⚡ Currently Building
+
+| Project | What I'm building | Status |
+|---|---|---|
+| 🐉 **Termux Kali NetHunter** | Beginner-friendly Android/Linux cybersecurity setup & toolkit documentation | 🟢 Active |
+| ⚽ **DLS Tournament Manager** | Tournament management, fixtures, standings and player administration | 🟢 Active |
+| 🌐 **Developer Portfolio** | A modern interactive portfolio showcasing my work and skills | 🟢 Active |
+| 📚 **EFAC / Education Projects** | Education, mentorship and digital tools for young learners | 🔵 Growing |
+
+```text
+CURRENT FOCUS
+
+[██████████████████░░] Full-Stack Development
+[████████████████░░░░] Backend Engineering
+[██████████████░░░░░░] Cybersecurity
+[████████████░░░░░░░░] Linux / Networking
+[██████████░░░░░░░░░░] Rust / Systems
+[████████░░░░░░░░░░░░] Architecture + CAD
+```
+
+---
+
+## 🧠 Skills Matrix
+
+### `DEVELOPMENT`
+
+| Area | Technologies |
+|---|---|
+| Frontend | HTML • CSS • JavaScript • React • Vite |
+| Backend | Node.js • REST APIs • SQL • Supabase |
+| Databases | PostgreSQL • Firebase • SQL |
+| Tooling | Git • GitHub • VS Code • Vercel • Netlify |
+| Design | UI/UX • Figma • Responsive Design |
+
+### `CYBERSECURITY & LINUX`
+
+| Area | Tools / Concepts |
+|---|---|
+| Linux | Kali Linux • NetHunter • Termux • Bash |
+| Networking | TCP/IP • DNS • HTTP/HTTPS • Nmap |
+| Web Security | Burp Suite • OWASP concepts • Web testing labs |
+| Security Tools | Nmap • Nikto • Gobuster • John • Netcat |
+| OSINT | Reconnaissance • Information gathering |
+
+### `EXPLORING`
+
+`Rust` `Distributed Systems` `Cloud` `DevOps` `Networking` `CAD` `3D/WebGL`
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>🐉 Termux Kali NetHunter</h3>
+<p>Practical documentation for running Kali NetHunter Rootless on Android, setting up Linux, installing security tools and building a safe learning environment.</p>
+<a href="https://github.com/vince551/Termux-kali-nethunter">View repository →</a>
+</td>
+<td width="50%">
+<h3>⚽ DLS Tournament Manager</h3>
+<p>A tournament-management project focused on fixtures, standings, players, league administration and game-day organization.</p>
+<a href="https://github.com/vince551">Explore my repositories →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🌐 Portfolio</h3>
+<p>My developer portfolio — projects, experiments, technical interests and the journey behind the code.</p>
+<a href="https://portfolio-sage-ten-22.vercel.app/">Visit portfolio →</a>
+</td>
+<td width="50%">
+<h3>🏗️ Architecture + Technology</h3>
+<p>Exploring the intersection of architecture, engineering, design and software — with a long-term goal of combining both worlds.</p>
+<a href="https://github.com/vince551">Follow the journey →</a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,python,rust,postgres,firebase,supabase,git,github,linux,bash,docker,figma,vercel&perline=9" alt="Technology icons" />
+</p>
+
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vince551&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vince551&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Vince%27s%20Contribution%20Matrix" alt="Contribution graph" />
+</p>
+
+---
+
+## 🎯 2026 Objectives
+
+```text
+[01] Ship more real-world web applications
+[02] Become stronger in backend engineering
+[03] Build a solid Linux + networking foundation
+[04] Practice cybersecurity through legal labs and CTFs
+[05] Learn systems programming with Rust
+[06] Keep developing architecture + technical design skills
+[07] Build projects that actually help people
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" alt="Portfolio" /></a>
+  <a href="https://instagram.com/vincey.dev"><img src="https://img.shields.io/badge/INSTAGRAM-00FF88?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=050505" alt="Instagram" /></a>
+  <a href="https://x.com/architectvince7"><img src="https://img.shields.io/badge/X-00FF88?style=for-the-badge&logo=x&logoColor=000000&labelColor=050505" alt="X" /></a>
+  <a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=050505" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+stay+curious;%3E+keep+building;%3E+learn+the+system;%3E+secure+the+system" alt="Animated closing line" />
+</p>
+
+<p align="center">
+  <i>Built with code, curiosity and a terminal.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0b1f16,100:050505&height=110&section=footer" width="100%" alt="Footer" />
+</p>
