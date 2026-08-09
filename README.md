@@ -123,10 +123,18 @@ Current mission:
   <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vince551&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 </p>
 
-### 🐍 Contribution Matrix
+### 🐉 Contribution Dragon Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vince551/vince551/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="95%" />
+  <b>THE DRAGON FOLLOWS THE CODE.</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vince551/vince551/output/github-contribution-grid-snake.svg" alt="Animated contribution dragon" width="98%" />
+</p>
+
+<p align="center">
+  <sub>⚡ Contributions become the terrain. 🐉 The dragon moves through your activity.</sub>
 </p>
 
 <p align="center">
