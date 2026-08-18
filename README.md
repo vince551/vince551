@@ -1,76 +1,97 @@
 <!-- VINCE ODHIAMBO • GitHub Profile -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1f2a,100:00ff88&height=250&section=header&text=VINCE%20ODHIAMBO&fontSize=58&fontColor=00ff88&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20ARCHITECTURE%20%2B%20TECH&descAlignY=61&descSize=16&animation=fadeIn" width="100%" alt="Vince Odhiambo developer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:07111f,100:00ff88&height=260&section=header&text=VINCE%20ODHIAMBO&fontSize=62&fontColor=00ff88&fontAlignY=38&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20BUILD%20%E2%80%A2%20IMPACT&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Vince Odhiambo developer banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vince551"><img src="https://img.shields.io/github/followers/vince551?style=for-the-badge&label=FOLLOWERS&color=00ff88&labelColor=020617&logo=github&logoColor=00ff88" alt="GitHub followers" /></a>
-  <a href="https://github.com/vince551?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-00ff88?style=for-the-badge&labelColor=020617&logo=github&logoColor=00ff88" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vince551&style=for-the-badge&color=00ff88&labelColor=020617&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/vince551?tab=followers"><img src="https://img.shields.io/github/followers/vince551?style=for-the-badge&label=FOLLOWERS&color=00ff88&labelColor=020617&logo=github&logoColor=00ff88" alt="GitHub followers" /></a>
+  <a href="https://github.com/vince551?tab=repositories"><img src="https://img.shields.io/badge/REPOS-EXPLORE-00ff88?style=for-the-badge&labelColor=020617&logo=github&logoColor=00ff88" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vince551&style=for-the-badge&color=00ff88&labelColor=020617&label=VISITORS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <strong>Building digital products with code, design and purpose.</strong><br/>
-  <sub>Kenya 🇰🇪 • Web Development • Architecture • Cybersecurity Learning</sub>
+  <strong>⚡ I don't just learn technology — I build with it.</strong><br/>
+  <sub>🇰🇪 Kenya • Full-Stack Developer • Future Architect • Cybersecurity Learner</sub>
 </p>
 
 ---
 
-## 👋 Hey, I'm Vince
+## 👾 `whoami`
 
-I'm **Vince Odhiambo** — a young developer and aspiring architect from Kenya who enjoys turning ideas into real, usable products.
+Hey, I'm **Vince Odhiambo**.
 
-My GitHub is where I **experiment, build, break things, learn, and ship**. I work mainly around **frontend development, full-stack applications, UI/UX, Firebase/Supabase, Linux and responsible cybersecurity learning**.
+I'm a developer, builder and aspiring architect who likes taking an idea from **“what if?” → “let's build it” → “it's live.”**
 
-> ### **Think it. Design it. Build it. Ship it.**
+My playground is the intersection of **web development, design, cybersecurity, education, community and architecture**.
 
-I'm especially interested in the space where **technology meets design, education, community and architecture**.
+```text
+╭────────────────────────────────────────────╮
+│  THINK  →  DESIGN  →  CODE  →  TEST  →  SHIP │
+╰────────────────────────────────────────────╯
+```
 
-## ⚡ What I do
+> **Build things that are useful. Make them look good. Make them work.**
 
-| 💻 Development | 🎨 Design | 🔐 Security | 🏗️ Architecture |
-|---|---|---|---|
-| Responsive websites, dashboards & full-stack apps | Clean interfaces, UX & interaction design | Linux, networking, OWASP & authorized testing | Exploring the intersection of digital tools & built environments |
+## ⚡ The Vince Stack
 
-## 🚀 Projects worth exploring
+<table>
+<tr>
+<td align="center" width="25%"><h3>💻</h3><b>BUILD</b><br/><sub>Web & Full-Stack</sub></td>
+<td align="center" width="25%"><h3>🎨</h3><b>DESIGN</b><br/><sub>UI/UX & Creative</sub></td>
+<td align="center" width="25%"><h3>🔐</h3><b>SECURE</b><br/><sub>Linux & Cybersecurity</sub></td>
+<td align="center" width="25%"><h3>🏗️</h3><b>CREATE</b><br/><sub>Architecture + Tech</sub></td>
+</tr>
+</table>
 
-| Project | Built around |
+## 🚀 Stuff I've Been Building
+
+> A few projects that show what I like to create.
+
+| 🔥 Project | ⚙️ What happens there |
 |---|---|
-| ⚽ **[Pitch Kings](https://github.com/vince551/Pitch-kings)** | Tournament management, Firebase, real-time workflows & dashboards |
-| 🧩 **[Employee Management System](https://github.com/vince551/EMS)** | React, TypeScript, HR workflows, APIs & database architecture |
-| 🧠 **[J.G-TEEN](https://github.com/vince551/joboteen)** | Education, storytelling, interactive experiences & youth-focused UX |
-| 📚 **[StoryBook](https://github.com/vince551/Story-book-)** | Next.js, TypeScript, Supabase, RLS & social reading |
-| 🌐 **[Portfolio](https://github.com/vince551/portfolio)** | Personal branding, responsive UI, case studies & interactive frontend |
-| 🏠 **[Yusuf Furniture](https://github.com/vince551/kb-Yusuf-furniture-)** | Business websites, product presentation & conversion-focused UI |
+| ⚽ **[Pitch Kings](https://github.com/vince551/Pitch-kings)** | Tournament management, Firebase & real-time dashboards |
+| 🧩 **[Employee Management System](https://github.com/vince551/EMS)** | Modern HR workflows with React, TypeScript & data architecture |
+| 🧠 **[J.G-TEEN](https://github.com/vince551/joboteen)** | Education, storytelling & youth-focused digital experiences |
+| 📚 **[StoryBook](https://github.com/vince551/Story-book-)** | Social reading with Next.js, Supabase & RLS |
+| 🌐 **[Portfolio](https://github.com/vince551/portfolio)** | Personal branding, interactive UI & case studies |
+| 🏠 **[Yusuf Furniture](https://github.com/vince551/kb-Yusuf-furniture-)** | A polished business/product experience |
 
-<p align="center"><a href="https://github.com/vince551?tab=repositories"><strong>→ Explore all repositories</strong></a></p>
+<p align="center"><a href="https://github.com/vince551?tab=repositories"><b>⚡ ENTER THE LAB → VIEW ALL REPOSITORIES</b></a></p>
 
-## 🛠️ My toolbox
+## 🧰 My Weapons of Choice
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,python,postgres,firebase,supabase,git,github,linux,bash,docker,figma,vercel&perline=10" alt="Vince technology stack" />
 </p>
 
-| Domain | Technologies / Focus |
-|---|---|
-| **Frontend** | HTML • CSS • JavaScript • TypeScript • React • Next.js • Vite |
-| **Backend** | Node.js • REST APIs • Authentication • Server-side validation |
-| **Data** | PostgreSQL • Supabase • Firebase • Firestore • Prisma |
-| **DevOps** | Git • GitHub • Vercel • Firebase Hosting • Linux • Bash |
-| **Security** | OWASP concepts • Networking • Linux security labs • Authorized testing |
-| **Design** | Responsive UI • Dashboards • Interaction design • Figma |
+**Frontend** → HTML • CSS • JavaScript • TypeScript • React • Next.js • Vite  
+**Backend** → Node.js • REST APIs • Authentication • Server-side validation  
+**Data** → PostgreSQL • Supabase • Firebase • Firestore • Prisma  
+**DevOps** → Git • GitHub • Vercel • Firebase Hosting • Linux • Bash  
+**Security** → Networking • OWASP concepts • Linux security labs • Authorized testing  
+**Design** → Responsive UI • Dashboards • Interaction design • Figma
 
-## 🎯 Currently building toward
+## 🧪 Currently in the Lab
 
-- 🚀 Production-quality full-stack applications
-- 🧠 Stronger backend, API and database engineering
-- ⚡ Real-time systems and useful developer tools
-- 🔐 Deeper Linux, networking and cybersecurity skills
-- 📚 Technology that supports education and community projects
-- 🏗️ The intersection of architecture, design and technology
+```diff
++ Building production-quality full-stack apps
++ Going deeper into backend & database engineering
++ Experimenting with real-time systems
++ Sharpening Linux, networking & cybersecurity skills
++ Creating technology for education & community
++ Exploring architecture + technology
+```
 
-## 📈 GitHub at a glance
+## 🏗️ The Bigger Picture
+
+Coding is only one part of what I'm interested in.
+
+**Children's rights • Education • Architecture • Digital creativity • Community • Technology**
+
+I want to build things that don't just **run** — they should **matter**.
+
+## 📊 GitHub // Activity
 
 <p align="center">
   <img height="175" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vince551&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github" alt="Vince GitHub statistics" />
@@ -81,13 +102,7 @@ I'm especially interested in the space where **technology meets design, educatio
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&bg_color=020617&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=VINCE%20%E2%80%94%20CONTRIBUTION%20MATRIX" alt="Vince contribution graph" />
 </p>
 
-## 🌍 Beyond the code
-
-**Children's rights • Education • Architecture • Digital creativity • Community projects • Technology**
-
-I believe technology becomes more valuable when it solves problems beyond the screen.
-
-## 🤝 Let's connect
+## 🌐 Find Me Around the Internet
 
 <p align="center">
   <a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=020617" alt="Portfolio" /></a>
@@ -96,6 +111,10 @@ I believe technology becomes more valuable when it solves problems beyond the sc
   <a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=020617" alt="Email" /></a>
 </p>
 
-<p align="center"><sub>BUILD • LEARN • CREATE • SECURE • DESIGN</sub></p>
+<p align="center">
+  <b>⚡ BUILD • BREAK • LEARN • REBUILD • SHIP ⚡</b>
+</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:020617&height=100&section=footer" width="100%" alt="Profile footer" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:020617&height=110&section=footer" width="100%" alt="Profile footer" />
+</p>
