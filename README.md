@@ -1,85 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VINCENT%20ODHIAMBO&fontSize=52&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20TECH%20BUILDER%20%7C%20ASPIRING%20ARCHITECT&descAlignY=58&descSize=16&animation=fadeIn&color=0:06111f,55:123b63,100:f59e0b" width="100%" alt="Vincent Odhiambo banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VINCENT%20ODHIAMBO&fontSize=54&fontAlignY=36&desc=BUILDING%20DIGITAL%20EXPERIENCES%20FROM%20KENYA&descAlignY=58&descSize=16&animation=fadeIn&color=0:050816,55:0f2a44,100:f59e0b" width="100%" alt="Vincent Odhiambo"/>
 
-# 👋 Hi, I'm **Vince**
+# `vince551` 👋
 
-### I build digital experiences that turn ideas into something people can actually use.
+### Web Developer · Tech Builder · Creative Technologist · Aspiring Architect
+
+**I turn ideas into interfaces, platforms and products.**
 
 <p>
-  <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-vince551-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/vince551/portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-123b63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-vincey.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-vince551-050816?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/vince551/portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-0f2a44?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Work%20with%20me-f59e0b?style=for-the-badge&logo=gmail&logoColor=111827"/></a>
+<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/@vincey.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ The short version
 
-I'm **Vincent Odhiambo**, a Kenyan developer and technology enthusiast who loves building, experimenting and learning by shipping real projects.
+I'm **Vincent Odhiambo**, a developer from Kenya who enjoys building real products rather than just writing isolated code.
 
-My work sits across **web development, game-related projects, cybersecurity learning, creative technology and architecture/design**. I enjoy taking an idea from a sketch or conversation and turning it into a polished digital product.
+I work across **web development, full-stack applications, interactive UI, game-related systems, Linux/cybersecurity learning and creative technology**. I'm also deeply interested in **architecture, design, education and youth-focused technology**.
 
-I'm especially interested in technology that can have a real-world impact — particularly around **education, young people, communities and access to opportunity**.
+```text
+IDEA  →  DESIGN  →  BUILD  →  SHIP  →  POLISH  →  REPEAT
+```
 
-> **Code is the tool. Building useful things is the goal.**
+> **Code is the medium. Useful products are the outcome.**
 
 ---
 
-## ⚡ What I Do
+## 🧩 What I build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Web Development
+### 🌐 Web & Full Stack
 
-- Responsive websites
-- Modern dashboards
-- Interactive interfaces
-- Full-stack applications
-- PWA experiences
-- Deployment & hosting
+Modern websites, dashboards, portals, PWAs and full-stack applications with responsive UX and real deployment workflows.
 
 </td>
 <td width="50%">
 
-### 🧠 Technology
+### 🎨 Creative Technology
 
-- JavaScript / modern frontend
-- Supabase & databases
-- Firebase
-- Linux & networking
-- Ethical cybersecurity
-- APIs & application architecture
+Interactive interfaces, animation, Three.js experiments, visual systems and projects where design and technology meet.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎮 Creative Development
+### 🎮 Game & Interactive Systems
 
-- Game-related projects
-- Tournament systems
-- Interactive experiences
-- Three.js experiments
-- UI/UX experimentation
+Game-related projects, tournament platforms and systems that turn complex interactions into simple experiences.
 
 </td>
 <td width="50%">
 
-### 🏗️ Beyond Code
+### 🛡️ Linux & Cybersecurity
 
-- Architecture & design
-- Technical drawing / CAD
-- Education initiatives
-- Children's rights
-- Youth leadership
-- Community projects
+Learning networking, Linux and ethical cybersecurity through hands-on experimentation and responsible security research.
 
 </td>
 </tr>
@@ -87,154 +72,163 @@ I'm especially interested in technology that can have a real-world impact — pa
 
 ---
 
-## 🛠️ My Stack
+## 🛠️ Technology I use
 
 <div align="center">
 
-### Frontend
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs" alt="Frontend stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" alt="Frontend stack"/>
 
-### Backend, Data & Cloud
+**Backend · Data · Cloud**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,supabase,firebase,vercel" alt="Backend and cloud stack"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,supabase,firebase,vercel" alt="Backend stack"/>
 
-### Tools & Environment
+**Tools · Systems · Design**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" alt="Tools"/>
 
 </div>
 
-> My stack keeps evolving. I choose technologies based on what the project actually needs rather than chasing every new framework.
+> I don't collect frameworks. I choose tools based on the problem, the product and the experience I'm trying to create.
 
 ---
 
-## 🚀 Projects I'm Proud Of
+# 🚀 Selected builds
 
-### 🎓 [EFAC — Education For All Children](https://github.com/vince551/EFAC)
+### 🎓 EFAC — Education For All Children
 
-A modern education platform designed around **scholar progress, mentorship, community and opportunity**.
+**Education · Community · Scholar Platform · PWA · Supabase**
 
-**Building around:**
+A modern platform focused on scholar progress, academic access, mentorship, community and opportunity.
 
-`Scholar Dashboard` · `Academic Hub` · `Profiles` · `Community` · `News` · `PWA` · `Supabase`
+`React` `TypeScript` `Supabase` `PWA` `Vercel`
 
----
-
-### 🏛️ [NCA — National Children Assembly](https://github.com/vince551/NCA)
-
-A youth-focused web platform exploring digital reporting, participation and community engagement.
+→ **[View EFAC](https://github.com/vince551/EFAC)**
 
 ---
 
-### 💼 [Personal Portfolio](https://github.com/vince551/portfolio)
+### 🏛️ NCA — National Children Assembly
 
-My personal development portfolio — built to showcase projects, experiments, skills and the things I'm currently creating.
+A youth-focused digital platform exploring participation, reporting, community engagement and children's rights.
 
----
-
-### ⚽ [Pitch Kings](https://github.com/vince551/Pitch-kings)
-
-A football tournament management project covering teams, fixtures, league information and tournament operations.
+→ **[View NCA](https://github.com/vince551/NCA)**
 
 ---
 
-### 📚 [AMG Library](https://github.com/vince551/AMG-library)
+### 💼 Personal Portfolio
 
-A digital library concept focused on making information and learning resources easier to access.
+My portfolio and digital home for showcasing projects, experiments, skills and development work.
 
----
-
-### 🛋️ [Yusuf Furniture](https://github.com/vince551/kb-Yusuf-furniture-)
-
-A business website project created to give a furniture brand a stronger, modern online presence.
+→ **[View Portfolio](https://github.com/vince551/portfolio)**
 
 ---
 
-## 🔭 Currently Exploring
+### ⚽ Pitch Kings
+
+A football tournament system focused on teams, fixtures, leagues and tournament operations.
+
+→ **[View Pitch Kings](https://github.com/vince551/Pitch-kings)**
+
+---
+
+### 📚 AMG Library
+
+A digital library concept exploring easier access to learning resources and information.
+
+→ **[View AMG Library](https://github.com/vince551/AMG-library)**
+
+---
+
+### 🛋️ Yusuf Furniture
+
+A modern business web presence built around product presentation and a stronger digital customer experience.
+
+→ **[View Yusuf Furniture](https://github.com/vince551/kb-Yusuf-furniture-)**
+
+---
+
+## 🔭 What I'm exploring now
+
+| Area | Direction |
+|---|---|
+| **Web Engineering** | Building more production-quality applications |
+| **React + TypeScript** | Stronger component architecture and UX |
+| **Supabase** | Auth, databases, realtime features and RLS |
+| **PWA** | Installable, offline-capable web experiences |
+| **Linux** | Systems, networking and development workflows |
+| **Cybersecurity** | Ethical security and defensive fundamentals |
+| **Game Development** | Interactive systems and game experiences |
+| **Architecture + CAD** | Connecting digital design with architectural thinking |
+
+---
+
+## 🧠 How I think about building
 
 ```text
-Web Development        ████████████████████  Building
-Full-Stack Engineering ██████████████████░░  Growing
-Supabase + Databases   ████████████████░░░░  Exploring
-Linux + Networking     ██████████████░░░░░░  Learning
-Cybersecurity          ████████████░░░░░░░░  Learning
-Game Development       ████████████░░░░░░░░  Experimenting
-Architecture + CAD     ███████████░░░░░░░░░  Exploring
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   PROBLEM                                           │
+│      ↓                                              │
+│   UNDERSTAND     What actually needs solving?       │
+│      ↓                                              │
+│   DESIGN         What should the experience feel?  │
+│      ↓                                              │
+│   BUILD          Turn the idea into reality.       │
+│      ↓                                              │
+│   TEST           Find what breaks.                  │
+│      ↓                                              │
+│   POLISH         Make it worth using.               │
+│      ↓                                              │
+│   SHIP           Put it in people's hands.         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
----
-
-## 🧭 How I Build
-
-```text
-       IDEA
-        │
-        ▼
-   ┌───────────┐
-   │  EXPLORE  │  Understand the problem
-   └─────┬─────┘
-         ▼
-   ┌───────────┐
-   │  DESIGN   │  Shape the experience
-   └─────┬─────┘
-         ▼
-   ┌───────────┐
-   │   BUILD   │  Turn the idea into code
-   └─────┬─────┘
-         ▼
-   ┌───────────┐
-   │   SHIP    │  Deploy and test it in the real world
-   └─────┬─────┘
-         ▼
-   ┌───────────┐
-   │  POLISH   │  Improve, refine, repeat
-   └───────────┘
-```
-
-I care about **functionality, structure, visual quality and the actual user experience** — not just getting something to run.
+I care about **functionality, visual quality, responsiveness, accessibility and the details users actually notice**.
 
 ---
 
-## 🌍 What Drives Me
+## 🌍 Beyond the code
 
-I'm interested in projects where technology can create something bigger than a screen.
+Technology is only one part of what I'm interested in.
 
-**Education. Technology. Youth. Creativity. Leadership. Architecture.**
+I'm passionate about **education, children's rights, youth leadership, architecture, football and creative technology**. I want the things I build to have a reason to exist — especially when technology can help people learn, connect or access opportunity.
 
-These interests shape the kind of products I want to build: tools that help people learn, connect, create opportunities and solve practical problems.
+That mindset is a major reason projects like **EFAC** matter to me.
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vince551&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince551&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vince551&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="175" alt="Vincent's GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince551&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Vincent's top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vince551&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=vince551&theme=tokyonight&hide_border=true" alt="Vincent's GitHub streak"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Let's build
 
-Whether it's a website, platform, community project, game-related system or a completely crazy idea — **I'm always interested in building and learning.**
+Have a product idea, website, platform, community project or interesting technical problem?
+
+**I'm interested in building things, learning fast and making the next version better than the last.**
 
 <div align="center">
 
-<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vince"></a>
-<a href="https://github.com/vince551"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"></a>
-<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD-f59e0b?style=for-the-badge&logoColor=111827"/></a>
+<a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br/><br/>
+### `BUILD · LEARN · CREATE · REPEAT.`
 
-### `BUILD • LEARN • CREATE • REPEAT.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111f,50:123b63,100:f59e0b&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f2a44,100:f59e0b&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
