@@ -1,107 +1,755 @@
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:8B5CF6,50:06B6D4,100:10B981&height=250&section=header&text=WAMBIA%20KENNEDY&fontSize=70&fontAlignY=35&desc=Digital%20Systems%20Architect%20%7C%20AI%20Product%20Strategist%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+
 <div align="center">
 
-# VINCE ODHIAMBO
-### Full-Stack Developer · Creative Technologist · Future Architect
+<!-- Hero Section -->
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=4000&pause=500&color=10B981&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%92%BB+WAMBIA+KENNEDY;%F0%9F%9A%80+Digital+Systems+Architect;%F0%9F%A4%96+AI+Systems+Builder;%F0%9F%8F%AA+Creator+of+Sokomtaa;%F0%9F%93%A6+Architect+of+Scalable+Products" alt="Animated Title" />
+  </a>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1220,100:00e5a0&height=220&section=header&text=BUILD%20WITH%20PURPOSE.&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20SHIP%20%E2%80%A2%20IMPACT&descAlignY=61&descSize=15&descColor=00e5a0&animation=fadeIn" width="100%" alt="Vince Odhiambo profile banner" />
+<!-- Subtitle -->
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Intelligent%2C+Scalable+%26+Impact-First+Digital+Ecosystems;Powering+Sokomtaa+%E2%80%94+AI+Marketplace+for+Neighbourhoods;Where+Engineering+Excellence+Meets+Strategic+Vision;Architecting+Tomorrow's+Systems+Today" alt="Subtitle" />
+</h3>
 
-<p>
-  <a href="https://github.com/vince551?tab=followers"><img src="https://img.shields.io/github/followers/vince551?style=flat-square&label=Followers&color=00e5a0&labelColor=111827" alt="GitHub followers" /></a>
-  <a href="https://github.com/vince551?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-00e5a0?style=flat-square&labelColor=111827" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vince551&style=flat-square&color=00e5a0&label=Profile%20Views" alt="Profile views" />
+<!-- Profile Stats with Animations -->
+<p align="center">
+  <a href="https://github.com/mastermind-creat?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mastermind-creat?color=10B981&label=Github%20Followers&style=for-the-badge&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mastermind-creat&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Automation-EA4B71?style=for-the-badge" alt="Focus" />
 </p>
 
-<p><strong>🇰🇪 Kenya</strong> · Building digital products, learning cybersecurity, and exploring the intersection of technology, design and architecture.</p>
+<!-- Social Badges with GIF Integration -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mastermind-5799bb398">
+    <img src="https://img.shields.io/badge/💼_@WambiaKennedy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kennyleyy0@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wk-three.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://x.com/MastermindCreat">
+    <img src="https://img.shields.io/badge/🐦_@MastermindCreat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/mastermindcreat/">
+    <img src="https://img.shields.io/badge/📸_@mastermindcreat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@kennyleyy3918">
+    <img src="https://img.shields.io/badge/▶️_@kennyleyy3918-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100073953339674">
+    <img src="https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="tel:+254743394373">
+    <img src="https://img.shields.io/badge/📞_+254743394373-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
+<!-- Tech Stack with Categories -->
+</details>
+
+<br/>
+
+**💪 Technical Proficiency**
+
+<div align="left">
+
+**Architecture & Systems Engineering**
+![Systems Engineering](https://img.shields.io/badge/Architecture-95%25-10B981?style=flat-square)
+![Database Design](https://img.shields.io/badge/Databases-90%25-10B981?style=flat-square)
+
+**Backend Mastery**
+![Laravel](https://img.shields.io/badge/Laravel-92%25-FF2D20?style=flat-square)
+![Python/Node](https://img.shields.io/badge/Python_/_Node-88%25-3776AB?style=flat-square)
+
+**Frontend Excellence**
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square)
+![UI/UX Design](https://img.shields.io/badge/UI_/_UX-85%25-8B5CF6?style=flat-square)
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+</div>
 
-I'm **Vince Odhiambo**, a developer who enjoys turning rough ideas into polished, usable products.
+<!-- Another Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-I work across the stack — from **responsive interfaces and product design** to **APIs, databases, authentication and deployment**. I'm also exploring **Linux, networking and cybersecurity** while keeping one eye on the world of architecture and digital design.
-
-> **My philosophy:** don't just make it work. Make it useful, intentional and memorable.
-
-<br>
-
-## ⚡ What I Build
-
-| | Focus | What I care about |
-|---|---|---|
-| 💻 | **Full-Stack Web** | Modern, responsive and scalable applications |
-| 🎨 | **UI / UX** | Clean interfaces with strong visual hierarchy |
-| 🧠 | **Backend & Data** | APIs, authentication, databases and real-time systems |
-| 🔐 | **Cybersecurity** | Linux, networking and ethical security practices |
-| 🏗️ | **Architecture + Tech** | Designing at the intersection of space and technology |
-
----
-
-## 🚀 Selected Work
-
-| Project | Built With | Highlights |
-|:---|:---|:---|
-| **[⚽ Pitch Kings](https://github.com/vince551/Pitch-kings)** | Firebase · JavaScript | Tournament management & live dashboards |
-| **[🧩 Employee Management System](https://github.com/vince551/EMS)** | React · TypeScript | HR workflows & structured data |
-| **[🧠 J.G-TEEN](https://github.com/vince551/joboteen)** | Web · Education | Youth-focused digital experience |
-| **[📚 StoryBook](https://github.com/vince551/Story-book-)** | Next.js · Supabase | Social reading & secure data access |
-| **[🌐 Portfolio](https://github.com/vince551/portfolio)** | Web · Interactive UI | Personal brand & project showcase |
-| **[🪑 Yusuf Furniture](https://github.com/vince551/kb-Yusuf-furniture-)** | Web · Product UI | Business/product experience |
-
-<p align="center"><a href="https://github.com/vince551?tab=repositories"><strong>→ Explore all projects</strong></a></p>
-
----
-
-## 🛠️ Tech Arsenal
+## 🧠 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Philosophy & Value Proposition
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,python,postgres,supabase,firebase,git,github,linux,bash,docker,figma,vercel&perline=10" alt="Technologies Vince uses" />
-</div>
 
-**Frontend** · `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Vite`  
-**Backend & Data** · `Node.js` `REST APIs` `PostgreSQL` `Supabase` `Firebase` `Firestore` `Prisma`  
-**Infrastructure** · `Git` `GitHub` `Vercel` `Firebase Hosting` `Linux` `Bash` `Docker`  
-**Design & Security** · `UI/UX` `Figma` `Networking` `OWASP Concepts` `Linux Security Labs`
+```typescript
+interface Engineer {
+  mindset: "Systems Thinker" | "Feature Builder";
+  approach: "Architecture-First" | "Quick-Fix";
+  impact: "Compounding Value" | "Temporary Solutions";
+}
 
----
-
-## 🧪 Currently Building
-
-```text
-┌─ NOW ─────────────────────────────────────────────┐
-│  → Shipping better full-stack applications        │
-│  → Going deeper into backend engineering          │
-│  → Exploring real-time systems & databases        │
-│  → Sharpening Linux, networking & security        │
-│  → Building technology for education & community  │
-│  → Exploring architecture + digital technology    │
-└────────────────────────────────────────────────────┘
+const wambiaKennedy: Engineer = {
+  mindset: "Systems Thinker",
+  approach: "Architecture-First", 
+  impact: "Compounding Value"
+};
+// "I don't build features; I architect resilient, intelligent systems that scale, adapt, and deliver compounding value."
 ```
 
----
+</div>
 
-## 📊 GitHub Analytics
+I am a Systems Engineer at heart, translating complex real-world challenges in education, NGOs, and service marketplaces into elegant, automated, and scalable digital solutions. My work sits at the intersection of robust backend engineering, intelligent automation, and intuitive product design.
+
+<table> <tr> <td width="25%" align="center">
+🔄 Systems Thinking
+Architecting interconnected modules, not monolithic apps. Every component is designed for evolution.
+
+</td> <td width="25%" align="center">
+⚙️ Automation-First
+Identifying and eliminating manual toil through custom workflows (n8n, bots, APIs).
+
+</td> <td width="25%" align="center">
+📈 Impact-Driven
+Prioritizing projects that create tangible social or operational value, measured by real metrics.
+
+</td> <td width="25%" align="center">
+🛡️ Engineering Rigor
+Writing maintainable, documented code with clean architecture and scalable data models.
+
+</td> </tr> </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🏆 Featured Architecture Projects
+
+**Elite systems that demonstrate mastery of full-stack engineering, automation, and product thinking**
 
 <div align="center">
-<img height="175" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vince551&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9&rank_icon=github" alt="Vince's GitHub statistics" />
-<img height="175" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vince551&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=00e5a0&text_color=c9d1d9&langs_count=8" alt="Vince's top languages" />
-<br><br>
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&bg_color=020617&color=00e5a0&line=00e5a0&point=ffffff&area=true&hide_border=true&custom_title=VINCE%20ODHIAMBO%20%E2%80%94%20CONTRIBUTION%20GRAPH" alt="Vince's contribution graph" />
+
+<table> 
+<tr> 
+<td width="50%" valign="top"> 
+
+<div align="center">
+
+<!-- Project Screenshot -->
+<a href="https://github.com/mastermind-creat/elimu-tech-lms">
+  <img src="./images/elimutech.png" alt="Elimu Tech LMS Preview" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_ELIMU_TECH_LMS-10B981?style=for-the-badge" alt="Elimu Tech LMS"/> 
+
+### <a href="https://github.com/mastermind-creat/elimu-tech-lms">A Scalable Learning Ecosystem</a>
+
+</div>
+
+Full-stack LMS digitizing education for institutions. Features modular course builders, automated assessment engines, and analytics dashboards.
+
+**Architecture Highlights:**
+
+- ✅ Multi-tenant SaaS architecture
+- ✅ Real-time progress tracking
+- ✅ Automated grading & certification
+- ✅ RESTful API with JWT authentication
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=laravel,react,mysql,postman" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/mastermind-creat/elimu-tech-lms">
+    <img src="https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+</td> 
+
+<td width="50%" valign="top"> 
+
+<div align="center">
+
+<!-- Project Screenshot -->
+<a href="https://github.com/mastermind-creat/snapaura">
+  <img src="./images/snapaura.png" alt="SnapAura Preview" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎨_SNAPAURA-8B5CF6?style=for-the-badge" alt="SnapAura"/> 
+
+### <a href="https://github.com/mastermind-creat/snapaura">Intelligent Content Delivery Platform</a>
+
+</div>
+
+High-performance platform for dynamic media and content, built with smart caching, responsive UI patterns, and a decoupled architecture.
+
+**Technical Innovations:**
+
+- ✅ Lazy-loading & progressive enhancement
+- ✅ CDN-optimized asset delivery
+- ✅ Component-based design system
+- ✅ API-first architecture
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,php,vite" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/mastermind-creat/snapaura">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+</td> 
+</tr> 
+
+<tr> 
+<td width="50%" valign="top"> 
+
+<div align="center">
+
+<!-- Project Screenshot -->
+<a href="https://github.com/mastermind-creat/pageforge">
+  <img src="./images/ecommerce.png" alt="PageForge Preview" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_PAGEFORGE-F59E0B?style=for-the-badge" alt="PageForge"/> 
+
+### <a href="https://github.com/mastermind-creat/pageforge">Rapid Landing Page System</a>
+
+</div>
+
+Developer-friendly page builder emphasizing performance and design consistency. Enables rapid deployment of SEO-optimized landing pages.
+
+**System Features:**
+
+- ✅ Component library with pre-built blocks
+- ✅ Zero-config deployment pipeline
+- ✅ Built-in SEO & performance optimization
+- ✅ Version control for design iterations
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=js,tailwind" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/mastermind-creat/pageforge">
+    <img src="https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+</td> 
+
+<td width="50%" valign="top"> 
+
+<div align="center">
+
+<!-- Project Screenshot -->
+<a href="https://github.com/mastermind-creat/launchverse">
+  <img src="./images/launch.png" alt="LaunchVerse Preview" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🌌_LAUNCHVERSE-0EA5E9?style=for-the-badge" alt="LaunchVerse"/> 
+
+### <a href="https://github.com/mastermind-creat/launchverse">Product Launch Orchestrator</a>
+
+</div>
+
+An integrated platform to manage product launches from waitlist and hype-building to post-launch analytics and community engagement.
+
+**Orchestration Capabilities:**
+
+- ✅ Multi-channel campaign automation
+- ✅ Real-time analytics dashboard
+- ✅ Community engagement tools
+- ✅ A/B testing framework
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=nodejs,n8n" /> 
+</p> 
+
+<p align="center">
+  <a href="https://github.com/mastermind-creat/launchverse">
+    <img src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+</td> 
+</tr> 
+
+<tr> 
+<td width="100%" colspan="2" valign="top"> 
+
+<div align="center">
+
+<!-- Project Screenshot -->
+<a href="https://sokomtaa.co.ke">
+  <img src="./images/sokomtaa.png" alt="Sokomtaa Preview" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏪_SOKOMTAA-8B5CF6?style=for-the-badge" alt="Sokomtaa"/> 
+
+### <a href="https://sokomtaa.co.ke">AI Marketplace for Neighbourhoods</a>
+
+</div>
+
+AI-powered neighbourhood marketplace connecting local businesses, services, and residents with real-time recommendations and intelligent search.
+
+**Architecture Highlights:**
+
+- ✅ AI-powered personalized recommendations
+- ✅ Neighbourhood-scoped localized marketplace
+- ✅ Real-time listings & dynamic inventory
+- ✅ Modular full-stack API architecture
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgresql" /> 
+</p>
+
+<p align="center">
+  <a href="https://sokomtaa.co.ke">
+    <img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+</td> 
+</tr> 
+</table>
+
 </div>
 
 ---
 
-## 🌐 Connect
+<!-- ## 🎨 Digital Art & UI/UX Gallery
+
+**Visual excellence in product design, branding, and graphic communication** -->
+
+<!-- <div align="center">
+
+<table>
+<tr>
+<td width="33%">
+<img src="./images/graphic1.jpg" alt="Design 1" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Branding & Identity</b></p>
+</td>
+<td width="33%">
+<img src="./images/worldskills.jpg" alt="Design 2" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Digital Illustration</b></p>
+</td>
+<td width="33%">
+<img src="./images/wambia1.png" alt="Design 3" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>UI/UX Concepts</b></p>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<img src="./images/techsafi.png" alt="Design 4" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Web Portals</b></p>
+</td>
+<td width="33%">
+<img src="./images/ajiraimg.png" alt="Design 5" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Community Systems</b></p>
+</td>
+<td width="33%">
+<img src="./images/stvc.png" alt="Design 6" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Mobile Experiences</b></p>
+</td>
+</tr>
+</table>
+
+</div> -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🔗 Other Impactful Systems
+
+<details> 
+<summary><b>Click to expand complete project portfolio</b></summary>
+
+| Project | Purpose | Tech Stack | Impact Metric |
+|---------|---------|------------|---------------|
+| Ajira Digital Club System | Membership & event management for tech communities | Laravel, MySQL | 500+ active members |
+| NGO Bursary Management | Transparent fund allocation with applicant tracking | PHP, PostgreSQL | $100K+ distributed |
+| Student Result Management | Academic tracking with automated report generation | Laravel, React | 2000+ students |
+| WhatsApp Automation Bots | Intelligent customer support & engagement workflows | Python, Twilio API | 90% response automation |
+| Memoria | Browser-based cognitive training game | JavaScript, LocalStorage | 5K+ gameplay sessions |
+| Gameverse | Gamers arena — browser-based multi-game collection & gaming ecosystem | JavaScript, React, Canvas API | Live gaming platform at [epldls.vercel.app](https://epldls.vercel.app) |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🛠️ Technology Radar <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+
+**A curated stack chosen for specific strengths in building reliable, scalable systems**
 
 <div align="center">
-<a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00e5a0&labelColor=020617" alt="Portfolio" /></a>
-<a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00e5a0&labelColor=020617" alt="GitHub" /></a>
-<a href="https://instagram.com/vincey.dev"><img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=00e5a0&labelColor=020617" alt="Instagram" /></a>
-<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00e5a0&labelColor=020617" alt="Email" /></a>
-<br><br>
-**BUILD · BREAK · LEARN · REBUILD · SHIP**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Adopt%3A+Production-Ready+Stack;%F0%9F%94%AC+Trial%3A+Actively+Evaluating;%F0%9F%95%AD+Assess%3A+On+the+Horizon;%F0%9F%94%B4+On+Hold+%2F+Legacy%3A+Maintenance" alt="Tech Radar Subtitle" />
+
+<br/>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+![ADOPT](https://img.shields.io/badge/🟢_ADOPT-Production_Ready-10B981?style=for-the-badge)
+
+<br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,laravel,python,ts,js,postgresql,mysql,redis,docker,linux&theme=dark" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+![TRIAL](https://img.shields.io/badge/🟡_TRIAL-Actively_Evaluating-F59E0B?style=for-the-badge)
+
+<br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=graphql,prisma,supabase,mongodb,prometheus,grafana&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+![ASSESS](https://img.shields.io/badge/🔵_ASSESS-On_the_Horizon-0EA5E9?style=for-the-badge)
+
+<br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=figma,vite,firebase,vercel&theme=dark" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+![ON HOLD / LEGACY](https://img.shields.io/badge/🔴_ON_HOLD_/_LEGACY-Maintenance-8B5CF6?style=for-the-badge)
+
+<br/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nginx,git,github,php,postman&theme=dark" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:020617&height=100&section=footer" width="100%" alt="Profile footer" />
+---
+
+## 📈 GitHub Systems Analytics <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+
+<div align="center">
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mastermind-creat/mastermind-creat/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mastermind-creat/mastermind-creat/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mastermind-creat/mastermind-creat/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+<br/>
+
+<!-- Enhanced Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastermind-creat&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
+<br/>
+
+<!-- Stats Cards -->
+<a href="https://github.com/mastermind-creat"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mastermind-creat&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=10B981&text_color=9CA3AF&bg_color=0d1117&include_all_commits=true&custom_title=Systems%20Engineering%20Stats&rank_icon=github" alt="GitHub Stats"/> 
+</a> 
+<a href="https://github.com/mastermind-creat"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastermind-creat&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&bg_color=0d1117&card_width=320" alt="Top Languages"/> 
+</a>
+
+<br/>
+<br/>
+
+<!-- Enhanced Streak Stats -->
+<a href="https://git.io/streak-stats"> 
+  <img src="https://streak-stats.demolab.com?user=mastermind-creat&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&ring=10B981&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=8B5CF6" alt="GitHub Streak" /> 
+</a>
+
+<br/>
+<br/>
+
+<!-- Trophies -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mastermind-creat&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🧭 Strategic Engineering Roadmap (2026+)
+
+**My current engineering and research vector focuses on intelligent, autonomous systems**
+
+<div align="center">
+
+<img src="./images/roadmap.svg" alt="Strategic Engineering Roadmap" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 📍 Current Active Priorities
+
+
+<table> 
+<tr> 
+<td width="50%">
+
+**🎯 Technical Mastery**
+
+- Advanced React patterns (Suspense, Concurrent)
+- LLM integration & prompt engineering
+- Microservices with event-driven architecture
+- Performance optimization at scale
+
+</td> 
+<td width="50%">
+
+**🌍 Impact Initiatives**
+
+- Personal AI assistant ecosystem
+- Education platform expansion (Elimu Tech)
+- NGO digital transformation toolkit
+- Open-source automation frameworks
+
+</td> </tr> </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🏆 Accomplishments & Digital Badges
+
+<div align="center">
+
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Top_1%25_Contributor-10B981?style=for-the-badge&logo=github)
+![Architecture](https://img.shields.io/badge/System-Certified_Architect-8B5CF6?style=for-the-badge&logo=diagrams.net)
+![AI](https://img.shields.io/badge/AI-Strategist-FFD700?style=for-the-badge&logo=openai)
+![Open Source](https://img.shields.io/badge/Open_Source-Advocate-EA4335?style=for-the-badge&logo=openstreetmap)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🌐 The MASTERMINDCREAT Ethos
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22Code+is+temporary.+Systems+are+permanent.%22;%22Impact+is+everything.%22" alt="Philosophy" />
+
+<br/>
+<br/>
+
+**MASTERMINDCREAT is more than a brand; it's a build philosophy.**
+
+It represents the commitment to creating digital ecosystems that are:
+
+- **Intelligent by Design** → AI-first thinking
+- **Scalable by Architecture** → Built for growth
+- **Valuable by Impact** → Measured results
+
+<br/>
+
+Every line of code serves the larger vision of a more automated, efficient, and human-centric world.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 💬 Testimonials & Recommendations
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/⭐-Client%20Feedback-10B981?style=for-the-badge" />
+
+<br/>
+<br/>
+
+> *"Wambia's systems thinking approach transformed our entire platform architecture. His ability to see the big picture while managing intricate details is exceptional."*
+
+**— Education Institution Director**
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/⭐-Peer%20Review-8B5CF6?style=for-the-badge" />
+
+<br/>
+<br/>
+
+> *"One of the most innovative engineers I've worked with. He doesn't just build features—he architects solutions that scale and evolve."*
+
+**— Senior Full-Stack Developer**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/⭐-Project%20Impact-F59E0B?style=for-the-badge" />
+
+<br/>
+<br/>
+
+> *"The automation workflows Wambia built saved our team 20+ hours per week. His work directly impacted our bottom line."*
+
+**— NGO Operations Manager**
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/⭐-Technical%20Excellence-0EA5E9?style=for-the-badge" />
+
+<br/>
+<br/>
+
+> *"Clean code, excellent documentation, and a genuine passion for solving real problems. A true systems engineer."*
+
+**— Tech Lead, Startup**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🎯 Current System Status
+
+<div align="center">
+
+```typescript
+const MASTERMIND_STATE = {
+  🔭 activeProject: "AI-Driven SaaS Ecosystem",
+  🌱 researchPhase: "Distributed Microservices & LLM Orchestration",
+  💬 consulting: "NGO Digital Transformation & LMS Strategy",
+  ⚡ efficiency: "Automating 90% of repeatable digital workflows",
+  🚀 focus: "Scaling impact-first digital solutions globally"
+};
+```
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 💬 Let's Architect the Future
+
+<div align="center">
+
+I am actively seeking collaborations, advisory roles, and challenging problems that sit at the intersection of systems engineering, automation, and social impact.
+
+<br/>
+<br/>
+
+**Let's build systems that matter.**
+
+<br/>
+
+<a href="mailto:kennyleyy0@gmail.com"> <img src="https://img.shields.io/badge/📩_Send_a_Detailed_Brief-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> 
+<a href="https://www.linkedin.com/in/mastermind-5799bb398"> <img src="https://img.shields.io/badge/🤝_Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+<a href="https://wk-three.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🌍 Global Visitor Footprint
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/mastermind-creat/count.svg" alt="Visitor Count" />
+
+<br/>
+
+![Visitor Map](https://view-counter.vercel.app/map/mastermind-creat)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
+
+## 🎨 Digital Art & UI/UX Gallery
+
+**Visual excellence in product design, branding, and graphic communication**
+
+<details>
+<summary><b>✨ Click to Expand Gallery</b></summary>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%">
+<img src="./images/graphic1.jpg" alt="Design 1" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Branding & Identity</b></p>
+</td>
+<td width="33%">
+<img src="./images/worldskills.jpg" alt="Design 2" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Digital Illustration</b></p>
+</td>
+<td width="33%">
+<img src="./images/wambia1.png" alt="Design 3" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>UI/UX Concepts</b></p>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<img src="./images/techsafi.png" alt="Design 4" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Web Portals</b></p>
+</td>
+<td width="33%">
+<img src="./images/ajiraimg.png" alt="Design 5" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Community Systems</b></p>
+</td>
+<td width="33%">
+<img src="./images/stvc.png" alt="Design 6" width="100%" style="border-radius: 10px;"/>
+<p align="center"><b>Mobile Experiences</b></p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/mastermind-creat?tab=repositories">
+  <img src="https://img.shields.io/badge/View_More_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="UI/UX Repo" />
+</a>
+
+</div>
+
+</details>
+
+<br/>
+
+<sub>Crafted with precision for systems that scale. <img src="https://komarev.com/ghpvc/?username=mastermind-creat&color=8B5CF6&style=flat" alt="Profile Views"/></sub>
+
+</div>
+
+<!-- Wave Animation Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:8B5CF6,50:06B6D4,100:10B981&height=100&section=footer" width="100%"/>
