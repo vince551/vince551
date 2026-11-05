@@ -2,31 +2,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VINCENT%20ODHIAMBO&fontSize=54&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20PRODUCT%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn&color=0:050816,40:14213d,70:5b21b6,100:00d4ff" width="100%" alt="Vincent Odhiambo developer banner"/>
 
-# vince551
+# VINCENT ODHIAMBO
 
-### Building useful digital products from Kenya 🇰🇪
+### Web Developer · Product Builder · Kenya 🇰🇪
 
 **I turn ideas into responsive interfaces, practical platforms and real-world software.**
 
 <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-vince551-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://portfolio-sage-ten-22.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-5b21b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://portfolio-r6vd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-5b21b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-@vincey.dev-d946ef?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
 ---
 
-## About
+## About me
 
 I'm **Vincent Odhiambo**, a developer and technology enthusiast interested in building software that solves practical problems.
 
 I work across web development, user interface design and product development. I enjoy taking an idea from its first sketch through implementation, testing and deployment.
 
-My interests also include **education technology, youth leadership, architecture, creative technology and game development**.
+My interests include **education technology, youth leadership, architecture, creative technology and game development**.
 
-> **Build with purpose. Design with care. Keep learning.**
+> Build with purpose. Design with care. Keep learning.
 
-## What I work on
+## What I build
 
 - **Web applications:** responsive websites, dashboards, portals and progressive web apps.
 - **Product development:** turning concepts into usable platforms and workflows.
@@ -34,7 +34,7 @@ My interests also include **education technology, youth leadership, architecture
 - **Backend integration:** authentication, databases and application services.
 - **Creative technology:** animation, interactive experiences and experiments with 3D on the web.
 
-## Technology
+## Technology & tools
 
 <div align="center">
 
@@ -42,21 +42,32 @@ My interests also include **education technology, youth leadership, architecture
 
 </div>
 
-I choose tools according to the needs of each project and continue expanding my skills through hands-on building.
+I choose tools according to each project's needs and continue expanding my skills through hands-on building.
 
-## Selected projects
+## Featured projects
 
-| Project | What it is |
+| Project | Overview |
 |---|---|
-| [AMG Library](https://github.com/vince551/AMG) | Library management and learning platform |
-| [KCA](https://github.com/vince551/KCA) | Children and youth assembly project |
-| [StudyMate AI](https://github.com/vince551/StudyMate-AI) | AI-assisted study project |
-| [Portfolio](https://github.com/vince551/portfolio) | Personal portfolio and interactive web work |
-| [Pitch Kings](https://github.com/vince551/Pitch-kings) | Football tournament project |
-| [Mctaba](https://github.com/vince551/MCTaba) | Library management SaaS project (private repository) |
-| [Nexora](https://github.com/vince551/Nexora) | Workforce and employee management platform (private repository) |
+| [AMG Library](https://github.com/vince551/AMG) | A library management and learning platform, with member services, book circulation and library operations. |
+| [Sauti Yetu — NCCeAS](https://github.com/vince551/NCCeAS) | Nairobi City County Children’s e-Assembly frontend demonstration, designed to support children's participation in county-level assembly processes. |
+| [Kenya Children Assembly (KCA)](https://github.com/vince551/KCA) | A national children’s assembly project focused on children's participation, rights and representation. |
+| [StudyMate AI](https://github.com/vince551/StudyMate-AI) | An AI-assisted study companion concept for learning support, revision and study productivity. |
+| [Mctaba](https://github.com/vince551/MCTaba) | A multi-tenant library management SaaS platform. Laravel/PostgreSQL migration and production cutover are in progress. |
+| [Nexora](https://github.com/vince551/Nexora) | A multi-tenant workforce and employee management platform foundation. |
+| [Pitch Kings](https://github.com/vince551/Pitch-kings) | A football tournament management project with team and competition workflows. |
+| [Portfolio](https://github.com/vince551/portfolio) | My personal portfolio and interactive web development work. |
 
-## GitHub activity
+*Some projects are works in progress. Demonstrations and sample data should not be mistaken for live production services.*
+
+## GitHub achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vince551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="100%" alt="GitHub profile trophies"/>
+
+</div>
+
+## GitHub statistics
 
 <div align="center">
 
@@ -73,9 +84,17 @@ I choose tools according to the needs of each project and continue expanding my 
 
 </div>
 
-> These cards are third-party summaries. The official contribution calendar is displayed separately on my GitHub profile.
+## Contribution snake
 
-## Currently learning and exploring
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vince551/vince551/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+*The contribution snake is generated automatically by the repository's GitHub Actions workflow. It may take a run of the workflow before the image appears.*
+
+## Currently learning & exploring
 
 - Building maintainable full-stack applications.
 - Improving application architecture, security and performance.
@@ -87,7 +106,7 @@ I choose tools according to the needs of each project and continue expanding my 
 
 I care about using technology to support **learning, access, creativity and opportunity**. I am also interested in architecture and design, and how thoughtful digital and physical spaces can improve people's experiences.
 
-## Connect
+## Let's connect
 
 Have an idea, a project to collaborate on, or an interesting technical challenge?
 
