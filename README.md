@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VINCENT%20ODHIAMBO&fontSize=54&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20PRODUCT%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn&color=0:050816,40:14213d,70:5b21b6,100:00d4ff" width="100%" alt="Vincent Odhiambo developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VINCENT%20ODHIAMBO&fontSize=54&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20PRODUCT%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn&color=0:071B2C,50:0E7490,100:38BDF8" width="100%" alt="Vincent Odhiambo developer banner"/>
 
 # VINCENT ODHIAMBO
 
@@ -9,8 +9,8 @@
 **I turn ideas into responsive interfaces, practical platforms and real-world software.**
 
 <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-vince551-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://portfolio-r6vd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-5b21b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-@vincey.dev-d946ef?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://portfolio-r6vd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-@vincey.dev-00C2A8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
@@ -63,7 +63,7 @@ I choose tools according to each project's needs and continue expanding my skill
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vince551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="100%" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vince551&theme=onestar&no-frame=true&no-bg=true&margin-w=5" width="100%" alt="GitHub profile trophies"/>
 
 </div>
 
@@ -71,16 +71,16 @@ I choose tools according to each project's needs and continue expanding my skill
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vince551&show_icons=true&hide_border=true&theme=tokyonight" height="170" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince551&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vince551&show_icons=true&hide_border=true&bg_color=071B2C&title_color=38BDF8&text_color=E2E8F0&icon_color=00C2A8" height="170" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince551&layout=compact&hide_border=true&bg_color=071B2C&title_color=38BDF8&text_color=E2E8F0" height="170" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vince551&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=vince551&background=071B2C&ring=F5B942&fire=00C2A8&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&border=164E63" width="75%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vince551&bg_color=071B2C&color=E2E8F0&line=00C2A8&point=F5B942&area=true&title_color=38BDF8&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
@@ -112,14 +112,14 @@ Have an idea, a project to collaborate on, or an interesting technical challenge
 
 <div align="center">
 
-<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:architectvince7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-vincey.dev-d946ef?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-vincey.dev-00C2A8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 
 **BUILD · LEARN · CREATE · IMPROVE**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:5b21b6,100:00d4ff&height=120&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B2C,50:0E7490,100:38BDF8&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
