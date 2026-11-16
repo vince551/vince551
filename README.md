@@ -9,7 +9,7 @@
 **I turn ideas into responsive interfaces, practical platforms and real-world software.**
 
 <a href="https://github.com/vince551"><img src="https://img.shields.io/badge/GitHub-vince551-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://portfolio-r6vd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://vince.freepage.cc"><img src="https://img.shields.io/badge/Portfolio-Visit-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.instagram.com/vincey.dev/"><img src="https://img.shields.io/badge/Instagram-@vincey.dev-00C2A8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
